@@ -8,6 +8,7 @@
 		"Others": 	"posts/others",
 		"Tests"	:	"posts/test"
 	},
+	"template"	: "slate",
 	"perpage"	: 5,
 	"types"		: {
 		"\\.(md||markdown)$"	: "markdown",
