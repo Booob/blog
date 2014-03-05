@@ -1,0 +1,28 @@
+{
+	"docs"	: {
+		"πÿ”⁄Œ“":	"posts/about",
+		"Life":		"posts/life",
+		"Code"		"posts/code",
+		"ToDo_List": 	"posts/todo",
+		"Readings": 	"posts/books",
+		"Others": 	"posts/others",
+		"Tests"	:	"posts/test"
+	},
+	"perpage"	: 5,
+	"types"		: {
+		"\\.(md||markdown)$"	: "markdown",
+		"\\.(js||css||json)$"	: "code",
+		"\\.html?$"		: "html",
+		".*"			: "text"
+	},
+	"title"	:"MeatHead's Blog" ,
+	"comment" : "on",
+	"domain_alias" :["meathead.tk"] ,
+	"friends"	:[
+		{
+			"name"	:"ITS ME",
+			"title"	:"Jokies Blog",
+			"url" 	:"http://meathead.tk/"
+		}
+	]
+}
