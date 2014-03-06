@@ -1,6 +1,6 @@
 {
 	"docs"	: {
-		"关于我":	"posts/about"
+		"关于我":	"posts/about",
 		"Life":		"posts/life",
 		"Code":		"posts/code",
 		"ToDo_List": 	"posts/todo",
