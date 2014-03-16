@@ -161,7 +161,7 @@
 	        }
 	        sc.close();
 >	
-	
+>	
 	    //System.out.println(path); 
     	    List<Map.Entry<String,Integer>>ls = newScanner.processInput(path);
 	        System.out.println("读取的文件中出现频率最多的十个单词是：");
@@ -177,8 +177,8 @@
     	    }
          }
 + 测试结果：
-        <img src="/sources/wordCount.jpg"/>
-        <img src="/sources/cpu_usage.PNG"/>
-        <img src="/sources/deamon_threads.PNG"/>
-        <img src="/sources/heap_usage.PNG"/>
-        <img src="/sources/load.PNG"/>
+        ![](https://raw.github.com/Booob/blog/master/sources/wordCount.jpg?raw=true)
+        ![](https://raw.github.com/Booob/blog/master/sources/cpu_usage.PNG?raw=true)
+        ![](https://raw.github.com/Booob/blog/master/sources/deamon_threads.PNG?raw=true)
+        ![](https://raw.github.com/Booob/blog/master/sources/heap_usage.PNG?raw=true)
+        ![](https://raw.github.com/Booob/blog/master/sources/load.PNG?raw=true)
