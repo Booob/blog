@@ -175,5 +175,5 @@
     	    }
          }
 + 测试结果：
-        ![](http://booob.github.com/sources/wordCount.png)
+        ![](sources/wordCount.jpg)
         ![](/sources/vsout.jpg)
