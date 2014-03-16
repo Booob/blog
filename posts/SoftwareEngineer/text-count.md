@@ -158,7 +158,7 @@
 		    path ="test.txt";
 	        }
 	        sc.close();
-	
+>	
 	
 	    //System.out.println(path); 
     	    List<Map.Entry<String,Integer>>ls = newScanner.processInput(path);
@@ -175,5 +175,5 @@
     	    }
          }
 + 测试结果：
-        ![](sources/wordCount.jpg)
+        ![](http://github.com/booob/blog/sources/wordCount.png)
         ![](/sources/vsout.jpg)
