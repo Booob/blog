@@ -1,5 +1,6 @@
 {
 	"docs"	: {
+		"SoftWareEngineer": "posts/SoftwareEngineer",
 		"Welcome":	"README.md",
 		"Life":		"posts/life",
 		"Code":		"posts/code",
