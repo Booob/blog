@@ -1,14 +1,13 @@
 {
 	"docs"	: {
-		"关于我":	"posts/about",
+		"Welcome"	"README.md",
 		"Life":		"posts/life",
 		"Code":		"posts/code",
 		"ToDo_List": 	"posts/todo",
 		"Readings": 	"posts/books",
-		"Others": 	"posts/others",
-		"Tests"	:	"posts/test"
+		"Others": 	"posts",
 	},
-	"template"	: "slate",
+	"template"	: "pithiness",
 	"perpage"	: 5,
 	"types"		: {
 		"\\.(md||markdown)$"	: "markdown",
