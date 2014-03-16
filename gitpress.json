@@ -9,6 +9,7 @@
 		"Others": 	"posts"
 	},
 	"template"	: "pithiness",
+	"domain_alias"	:["jokiezhang.tk"],
 	"perpage"	: 5,
 	"types"		: {
 		"\\.(md||markdown)$"	: "markdown",
