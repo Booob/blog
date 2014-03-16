@@ -176,8 +176,8 @@
     	    }
          }
 + 测试结果：
-        ![](/sources/wordCount.jpg)
-        ![](/sources/vsout.jpg)
+        ![](http://github.com/booob/sources/wordCount.jpg)
+        ![](http://github.com/sources/vsout.jpg)
 
   
 
