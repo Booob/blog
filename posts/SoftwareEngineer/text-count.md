@@ -176,8 +176,8 @@
     	    }
          }
 + 测试结果：
-        ![OutPut](https://github.com/Booob/blog/tree/master/sources/wordCount.jpg)
-        ![Cpu_Usage](https://github.com/Booob/blog/tree/master/sources/cpu_usage.png)
-        ![Thread_Count](https://github.com/Booob/blog/tree/master/sources/deamon_threads.png)
-        ![Heap](https://github.com/Booob/blog/tree/master/sources/heap_usage.png)
-        ![Load](https://github.com/Booob/blog/tree/master/sources/load.png)
+        <img src="sources/wordCount.jpg"/>
+        <img src="sources/cpu_usage.png"/>
+        <img src="sources/deamon_threads.png"/>deamon_threads.png)
+        <img src="sources/heap_usage.png"/>
+        <img src="sources/load.png"/>
