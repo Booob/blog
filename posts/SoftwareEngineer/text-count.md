@@ -179,6 +179,6 @@
 + 测试结果：
         <img src="/sources/wordCount.jpg"/>
         <img src="/sources/cpu_usage.PNG"/>
-        <img src="/blog/sources/deamon_threads.PNG"/>
+        <img src="/sources/deamon_threads.PNG"/>
         <img src="/sources/heap_usage.PNG"/>
         <img src="/sources/load.PNG"/>
