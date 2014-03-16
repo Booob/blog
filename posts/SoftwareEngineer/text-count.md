@@ -177,8 +177,18 @@
     	    }
          }
 + 测试结果：
-![](https://raw.github.com/Booob/blog/master/sources/wordCount.jpg)
-![](../../sources/cpu_usage.PNG)
-![](../../sources/deamon_threads.PNG)
-![](../../sources/heap_usage.PNG)
-![](../../sources/load.PNG)
+
+![输出](https://raw.github.com/Booob/blog/master/sources/wordCount.jpg)
+
+
+![Threads](https://raw.github.com/Booob/blog/master/sources/deamon_threads.png)
+
+![Heap_Usage](https://raw.github.com/Booob/blog/master/sources/heap_usage.png)
+
+![Load_Class](https://raw.github.com/Booob/blog/master/sources/load.png)
+
+![Cpu_Usage](https://raw.github.com/Booob/blog/master/sources/cpu_usage.png)
+
+-------------------------------------------------
+
+>   &copy; JokieZhang 2014.3.16.
