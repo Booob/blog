@@ -177,8 +177,8 @@
     	    }
          }
 + 测试结果：
-        ![](https://raw.github.com/Booob/blog/master/sources/wordCount.jpg?raw=true)
-        ![](https://raw.github.com/Booob/blog/master/sources/cpu_usage.PNG?raw=true)
-        ![](https://raw.github.com/Booob/blog/master/sources/deamon_threads.PNG?raw=true)
-        ![](https://raw.github.com/Booob/blog/master/sources/heap_usage.PNG?raw=true)
-        ![](https://raw.github.com/Booob/blog/master/sources/load.PNG?raw=true)
+        ![](~/sources/wordCount.jpg?raw=true)
+        ![](~/sources/cpu_usage.PNG?raw=true)
+        ![](~/sources/deamon_threads.PNG?raw=true)
+        ![](~/sources/heap_usage.PNG?raw=true)
+        ![](~/sources/load.PNG?raw=true)
