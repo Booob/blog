@@ -1,4 +1,4 @@
-# 文本中的字符串计数问题 #
+# 文本中的字符串计数问题
 
 
 ------------------------------------------
@@ -63,6 +63,7 @@
             >
             }
         } 
+>
 >   3.设计 *test* 函数调用
 >
 >   4.不足之处：
@@ -176,8 +177,8 @@
     	    }
          }
 + 测试结果：
-        <img src="http://meathead.tk/blog/sources/wordCount.jpg"/>
-        <img src="http://meathead.tk/blog/sources/cpu_usage.png"/>
-        <img src="http://meathead.tk/blog/sources/deamon_threads.png"/>deamon_threads.png)
-        <img src="http://meathead.tk/blog/sources/heap_usage.png"/>
-        <img src="http://meathead.tk/blog/sources/load.png"/>
+        <img src="/sources/wordCount.jpg"/>
+        <img src="/sources/cpu_usage.PNG"/>
+        <img src="/blog/sources/deamon_threads.PNG"/>
+        <img src="/sources/heap_usage.PNG"/>
+        <img src="/sources/load.PNG"/>
