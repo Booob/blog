@@ -177,8 +177,8 @@
     	    }
          }
 + 测试结果：
-        ![](~/sources/wordCount.jpg?raw=true)
-        ![](~/sources/cpu_usage.PNG?raw=true)
-        ![](~/sources/deamon_threads.PNG?raw=true)
-        ![](~/sources/heap_usage.PNG?raw=true)
-        ![](~/sources/load.PNG?raw=true)
+        ![](~/sources/wordCount.jpg)
+        ![](~/sources/cpu_usage.PNG)
+        ![](~/sources/deamon_threads.PNG)
+        ![](~/sources/heap_usage.PNG)
+        ![](~/sources/load.PNG)
