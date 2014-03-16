@@ -1,4 +1,4 @@
-#文本中的字符串计数问题#
+#文本中的字符串计数问题 #
 
 ------------------------------------------
 
@@ -176,7 +176,7 @@
     	    }
          }
 + 测试结果：
-        ![](/sources/wordCount.png)
+        ![](http://github.com/booob/sources/wordCount.png)
         ![](/sources/vsout.jpg)
 
   
