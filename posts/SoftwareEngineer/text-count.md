@@ -1,5 +1,5 @@
-
 #文本中的字符串计数问题#
+
 ------------------------------------------
 
 ##问题回顾(Describle)：##
@@ -176,8 +176,8 @@
     	    }
          }
 + 测试结果：
-        ![](http://github.com/booob/sources/wordCount.jpg)
-        ![](http://github.com/sources/vsout.jpg)
+        ![](/sources/wordCount.png)
+        ![](/sources/vsout.jpg)
 
   
 
