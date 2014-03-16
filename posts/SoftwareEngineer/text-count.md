@@ -176,8 +176,8 @@
     	    }
          }
 + 测试结果：
-        <img src="sources/wordCount.jpg"/>
-        <img src="sources/cpu_usage.png"/>
-        <img src="sources/deamon_threads.png"/>deamon_threads.png)
-        <img src="sources/heap_usage.png"/>
-        <img src="sources/load.png"/>
+        <img src="http://meathead.tk/blog/sources/wordCount.jpg"/>
+        <img src="http://meathead.tk/blog/sources/cpu_usage.png"/>
+        <img src="http://meathead.tk/blog/sources/deamon_threads.png"/>deamon_threads.png)
+        <img src="http://meathead.tk/blog/sources/heap_usage.png"/>
+        <img src="http://meathead.tk/blog/sources/load.png"/>
