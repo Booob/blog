@@ -177,7 +177,7 @@
     	    }
          }
 + 测试结果：
-        ![](https://github.com/Booob/blog/blob/master/sources/wordCount.png)
+        ![](https://github.com/Booob/blog/blob/master/sources/wordCount.png?raw=true)
         ![](~/sources/cpu_usage.PNG)
         ![](~/sources/deamon_threads.PNG)
         ![](~/sources/heap_usage.PNG)
