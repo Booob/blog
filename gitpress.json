@@ -1,6 +1,6 @@
 {
 	"docs"	: {
-		"Welcome"	"README.md",
+		"Welcome":	"README.md",
 		"Life":		"posts/life",
 		"Code":		"posts/code",
 		"ToDo_List": 	"posts/todo",
