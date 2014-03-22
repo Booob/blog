@@ -18,7 +18,7 @@
 		".*"			: "text"
 	},
 	"title"	:"MeatHead's Blog" ,
-	"comment" : {"type":"disqus","shortname":"jokiezhang"},
+	"comment" : {"type":"duoshuo","shortname":"jokiezhang"},
 	"friends"	:[
 		{
 			"name"	:"ITS ME",
