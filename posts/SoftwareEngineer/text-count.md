@@ -183,11 +183,22 @@
 
 ![Threads](https://raw.github.com/Booob/blog/master/sources/deamon_threads.png)
 
+    守护线程和活动线程都在时间处发生了变化.守护线程在程序结束后又回归原来的状态,活动线程在达到定点后回归原来的变化状态.
+
 ![Heap_Usage](https://raw.github.com/Booob/blog/master/sources/heap_usage.png)
+
+    堆栈使用情况:可以很明显的看出在 12:56:20  秒后堆栈使用增加,包括类·对象·以及文件的载入使用的堆栈.测试文件并不大 只有675.8K,由此来看堆栈的使用主要在于类的加载以及各对象的调用对堆栈的使用.在程序设计中有必要去有意识减少类的使用,不能滥用类,无限制的递归调用,这对系统性能也是一个瓶颈
 
 ![Load_Class](https://raw.github.com/Booob/blog/master/sources/load.png)
 
+    因为本程序涉及得类并非很多,所以在  12:56:20s 左右类的数量并不是很明显
+
 ![Cpu_Usage](https://raw.github.com/Booob/blog/master/sources/cpu_usage.png)
+
+    从分析工具得出的结果来看:Cpu利用率在12:56:20s时开始具体变化,短短的时间内,产生两次峰值.第一次峰值较低,应当是在做一些处理文件的操作,IO处理时CPU利用率下降,到开始进行文本串的处理时达到峰值.由此看出,一个程序的关键在于其核心算法的效率. 
+
+
+
 
 -------------------------------------------------
 
@@ -197,4 +208,5 @@
 
 -------------------------
 
->   &copy; JokieZhang 2014.3.16.
+>   JokieZhang 2014.3.16. -----初稿
+>              2014.3.21  -----修改
