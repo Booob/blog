@@ -80,7 +80,7 @@
 >   *   关于界面，以下使我们讨论过的两个版本
 >
 >
-![Version1](https://raw.githubusercontent.com/Booob/blog/master/sources/se2.2.jpg)
+![Version1](https://raw.githubusercontent.com/Booob/blog/master/sources/se2.2.png)
 >       
 ![version2](https://raw.githubusercontent.com/Booob/blog/master/sources/se2.1.jpg)
 
