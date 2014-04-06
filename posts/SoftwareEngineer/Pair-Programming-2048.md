@@ -80,9 +80,9 @@
 >   *   关于界面，以下使我们讨论过的两个版本
 >
 >
-![Version1](version1)
+![Version1](https://raw.githubusercontent.com/Booob/blog/master/sources/se2.2.jpg)
 >       
-![version2](version2)
+![version2](https://raw.githubusercontent.com/Booob/blog/master/sources/se2.1.jpg)
 
 >>  最后我们选择了**第一种**做为实际的方案，基于以下两个原因：
 >>
